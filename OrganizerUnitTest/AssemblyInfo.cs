@@ -1,0 +1,6 @@
+﻿namespace OrganizerUnitTest
+{
+    class AssemblyInfo
+    {
+    }
+}
